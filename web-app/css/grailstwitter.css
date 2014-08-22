@@ -1,0 +1,45 @@
+.pageBody {
+	padding: 50px 50px 50px 250px;
+}
+
+.statusMessage {
+	padding: 10px;
+	width: 300px;
+	border-bottom: 1px solid #E9E9E9;
+}
+
+.statusMessageTime {
+	color: grey;
+}
+
+.statusMessageLikeButton {
+	color: #6D84B4;
+	padding-top: 10px;
+}
+
+.statusMessageLike {
+	background-color: #EDEFF4;
+	margin-top: 2px;
+}
+
+.author {
+	color: Blue;
+}
+
+.messageTime {
+	color: Grey;
+}
+
+.messageTextBox {
+	width: 60%;
+}
+
+.chatBoxContainer
+{
+	width: 650px;
+}
+
+.chatMessage
+{
+	width: 300px;
+}
